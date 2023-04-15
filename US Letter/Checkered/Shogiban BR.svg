@@ -5,7 +5,7 @@
    viewBox="0 0 215.9 279.40001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Shogiban BR.svg"
    inkscape:export-filename="C:\Users\ninja\Downloads\Shogiban JSA dimensions.png"
    inkscape:export-xdpi="96"
@@ -63,9 +63,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7651515"
-     inkscape:cx="407.76238"
-     inkscape:cy="528.00001"
+     inkscape:zoom="1.0250869"
+     inkscape:cx="364.8471"
+     inkscape:cy="397.0395"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -86,7 +86,9 @@
      inkscape:snap-bbox="false"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="true"
-     inkscape:snap-others="false" />
+     inkscape:snap-others="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -116,7 +118,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect35664-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="1044.2383"
            y="883.65234"
-           id="tspan983">六</tspan></text>
+           id="tspan902">六</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,-115.41979,54.480453)"
@@ -124,7 +126,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect37804-8);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="1114.8125"
            y="176.60352"
-           id="tspan985">七</tspan></text>
+           id="tspan904">七</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,299.06086,9.312053)"
@@ -132,7 +134,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44130-9);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="-452.19727"
            y="492.88086"
-           id="tspan987">八</tspan></text>
+           id="tspan906">八</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,274.77294,-37.109557)"
@@ -140,7 +142,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45984-7);fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="-360.71289"
            y="815.69141"
-           id="tspan989">九</tspan></text>
+           id="tspan908">九</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,-95.77706,-141.72032)"
@@ -151,7 +153,7 @@
          inkscape:export-ydpi="96"><tspan
            x="1039.0098"
            y="626.1973"
-           id="tspan991">五</tspan></text>
+           id="tspan910">五</tspan></text>
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-40"
@@ -348,7 +350,7 @@
          y="-116.66006"
          transform="scale(1,-1)" />
       <circle
-         style="fill:#2b0000;stroke-width:0.672535"
+         style="fill:#000000;stroke-width:0.67000001;fill-opacity:1;stroke-dasharray:none"
          id="path1014-8"
          cx="71.199997"
          cy="77.940063"

@@ -5,7 +5,7 @@
    viewBox="0 0 215.9 279.40001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Shogiban BL.svg"
    inkscape:export-filename="C:\Users\ninja\Downloads\Shogiban JSA dimensions.png"
    inkscape:export-xdpi="96"
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7651515"
-     inkscape:cx="607.06932"
-     inkscape:cy="528.00001"
+     inkscape:zoom="0.882061"
+     inkscape:cx="367.32153"
+     inkscape:cy="238.07877"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -56,7 +56,9 @@
      inkscape:snap-bbox="false"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="true"
-     inkscape:snap-others="false" />
+     inkscape:snap-others="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -73,14 +75,14 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g2635">
+       id="g737">
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,545.15391,-132.15927)"
          id="text27596"
-         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27598);fill:#000000;fill-opacity:1;stroke:none" />
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27598);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-9-4"
          width="35.350002"
          height="38.720016"
@@ -112,7 +114,7 @@
          y="-155.38004"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-27-7-9"
          width="35.350002"
          height="38.720016"
@@ -120,7 +122,7 @@
          y="-155.38004"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-2-6-5-5"
          width="35.350002"
          height="38.720016"
@@ -136,7 +138,7 @@
          y="-77.940033"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-7-1-2-3"
          width="35.350002"
          height="38.720016"
@@ -152,7 +154,7 @@
          y="-155.38004"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-5-1-6-5"
          width="35.350002"
          height="38.720016"
@@ -176,7 +178,7 @@
          y="-39.220032"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-27-4-3-5"
          width="35.350002"
          height="38.720016"
@@ -184,7 +186,7 @@
          y="-39.220032"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-50-8-4-0-6"
          width="35.350002"
          height="38.720016"
@@ -192,7 +194,7 @@
          y="-155.38004"
          transform="scale(1,-1)" />
       <rect
-         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-5-39-0"
          width="35.350002"
          height="38.720016"
@@ -208,7 +210,7 @@
          y="-77.940033"
          transform="scale(1,-1)" />
       <circle
-         style="fill:#2b0000;stroke-width:0.672535"
+         style="fill:#000000;stroke-width:0.672535;fill-opacity:1"
          id="path1014-4"
          cx="180.05003"
          cy="39.220032"

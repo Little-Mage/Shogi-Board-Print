@@ -5,7 +5,7 @@
    viewBox="0 0 215.9 279.40001"
    version="1.1"
    id="svg8"
-   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="Shogiban TR.svg"
    inkscape:export-filename="C:\Users\ninja\Downloads\Shogiban JSA dimensions.png"
    inkscape:export-xdpi="96"
@@ -57,9 +57,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22051525"
-     inkscape:cx="362.7867"
-     inkscape:cy="730.10824"
+     inkscape:zoom="0.7651515"
+     inkscape:cx="409.06932"
+     inkscape:cy="528.00001"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -80,7 +80,9 @@
      inkscape:snap-bbox="false"
      inkscape:snap-object-midpoints="true"
      inkscape:object-paths="true"
-     inkscape:snap-others="false" />
+     inkscape:snap-others="false"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -96,17 +98,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <text
-       xml:space="preserve"
-       transform="matrix(0.26458334,0,0,0.26458334,51.625003,35.040061)"
-       id="text27596"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27598);fill:#000000;fill-opacity:1;stroke:none" />
     <g
-       id="g7233"
-       transform="translate(-395.2532,-187.47932)">
+       id="g6952">
       <text
          xml:space="preserve"
-         transform="matrix(0.26458334,0,0,0.26458334,329.99401,281.92587)"
+         transform="matrix(0.26458334,0,0,0.26458334,51.625003,35.040061)"
+         id="text27596"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27598);fill:#000000;fill-opacity:1;stroke:none" />
+      <text
+         xml:space="preserve"
+         transform="matrix(0.26458334,0,0,0.26458334,-65.25919,94.44655)"
          id="text11080"
          style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect11082-7);fill:#000000;fill-opacity:1;stroke:none"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
@@ -114,12 +115,12 @@
          inkscape:export-ydpi="96"><tspan
            x="924"
            y="201.44534"
-           id="tspan352"><tspan
+           id="tspan907"><tspan
              style="font-family:Arial;-inkscape-font-specification:Arial"
-             id="tspan350">一</tspan></tspan></text>
+             id="tspan905">一</tspan></tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458334,0,0,0.26458334,327.85306,256.75572)"
+         transform="matrix(0.26458334,0,0,0.26458334,-67.40014,69.2764)"
          id="text15808"
          style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect15810-4);fill:#000000;fill-opacity:1;stroke:none"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
@@ -127,10 +128,10 @@
          inkscape:export-ydpi="96"><tspan
            x="931.8418"
            y="441.91995"
-           id="tspan354">二</tspan></text>
+           id="tspan909">二</tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458334,0,0,0.26458334,334.72482,215.87696)"
+         transform="matrix(0.26458334,0,0,0.26458334,-60.52838,28.39764)"
          id="text19290"
          style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect19292-2);fill:#000000;fill-opacity:1;stroke:none"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
@@ -138,10 +139,10 @@
          inkscape:export-ydpi="96"><tspan
            x="905.70312"
            y="742.51566"
-           id="tspan356">三</tspan></text>
+           id="tspan911">三</tspan></text>
       <text
          xml:space="preserve"
-         transform="matrix(0.26458334,0,0,0.26458334,262.49839,322.82158)"
+         transform="matrix(0.26458334,0,0,0.26458334,-132.75481,135.34226)"
          id="text22266"
          style="font-style:normal;font-weight:normal;font-size:42.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect22268-9);fill:#000000;fill-opacity:1;stroke:none"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
@@ -149,12 +150,12 @@
          inkscape:export-ydpi="96"><tspan
            x="1178.8516"
            y="483.74222"
-           id="tspan358">四</tspan></text>
+           id="tspan913">四</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="552.28058"
-         y="307.80267"
+         x="157.02737"
+         y="120.32336"
          id="text13583"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
          inkscape:export-xdpi="96"
@@ -162,13 +163,13 @@
            sodipodi:role="line"
            id="tspan13581"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
-           x="552.28058"
-           y="307.80267">1</tspan></text>
+           x="157.02737"
+           y="120.32336">1</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="516.65448"
-         y="307.80267"
+         x="121.40128"
+         y="120.32336"
          id="text15633"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
          inkscape:export-xdpi="96"
@@ -176,13 +177,13 @@
            sodipodi:role="line"
            id="tspan15631"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
-           x="516.65448"
-           y="307.80267">2</tspan></text>
+           x="121.40128"
+           y="120.32336">2</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="481.20334"
-         y="307.7355"
+         x="85.950142"
+         y="120.25619"
          id="text17311"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
          inkscape:export-xdpi="96"
@@ -190,13 +191,13 @@
            sodipodi:role="line"
            id="tspan17309"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
-           x="481.20334"
-           y="307.7355">3</tspan></text>
+           x="85.950142"
+           y="120.25619">3</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="446.02386"
-         y="307.78717"
+         x="50.770664"
+         y="120.30785"
          id="text18041"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
          inkscape:export-xdpi="96"
@@ -204,13 +205,13 @@
            sodipodi:role="line"
            id="tspan18039"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
-           x="446.02386"
-           y="307.78717">4</tspan></text>
+           x="50.770664"
+           y="120.30785">4</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
-         x="410.47748"
-         y="307.6709"
+         x="15.224278"
+         y="120.19158"
          id="text18837"
          inkscape:export-filename="C:\Users\ninja\Downloads\shogiban.png"
          inkscape:export-xdpi="96"
@@ -218,196 +219,196 @@
            sodipodi:role="line"
            id="tspan18835"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Arial;-inkscape-font-specification:Arial;stroke-width:0.264583"
-           x="410.47748"
-           y="307.6709">5</tspan></text>
+           x="15.224278"
+           y="120.19158">5</tspan></text>
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128"
          width="35.350002"
          height="38.720016"
-         x="395.7532"
-         y="388.93933" />
+         x="0.50000435"
+         y="201.46001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5"
          width="35.350002"
          height="38.720016"
-         x="431.10321"
-         y="388.93933" />
+         x="35.85001"
+         y="201.46001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-4"
          width="35.350002"
          height="38.720016"
-         x="466.45319"
-         y="388.93933" />
+         x="71.199989"
+         y="201.46001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-42"
          width="35.350002"
          height="38.720016"
-         x="537.1532"
-         y="388.93933" />
+         x="141.89999"
+         y="201.46001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-2"
          width="35.350002"
          height="38.720016"
-         x="395.7532"
-         y="350.21933" />
+         x="0.50000435"
+         y="162.74001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-0"
          width="35.350002"
          height="38.720016"
-         x="395.7532"
-         y="311.4993" />
+         x="0.50000435"
+         y="124.01998" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-7"
          width="35.350002"
          height="38.720016"
-         x="431.10321"
-         y="311.4993" />
+         x="35.85001"
+         y="124.01998" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-50"
          width="35.350002"
          height="38.720016"
-         x="466.45322"
-         y="311.4993" />
+         x="71.20002"
+         y="124.01998" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-1"
          width="35.350002"
          height="38.720016"
-         x="395.7532"
-         y="427.65933" />
+         x="0.50000435"
+         y="240.18001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-404"
          width="35.350002"
          height="38.720016"
-         x="431.10321"
-         y="350.21933" />
+         x="35.85001"
+         y="162.74001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-27"
          width="35.350002"
          height="38.720016"
-         x="466.45322"
-         y="350.21933" />
+         x="71.20002"
+         y="162.74001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-0-3"
          width="35.350002"
          height="38.720016"
-         x="431.10321"
-         y="427.65933" />
+         x="35.85001"
+         y="240.18001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-7-1"
          width="35.350002"
          height="38.720016"
-         x="466.45322"
-         y="427.65933" />
+         x="71.20002"
+         y="240.18001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-5-9"
          width="35.350002"
          height="38.720016"
-         x="501.80319"
-         y="311.49933" />
+         x="106.55"
+         y="124.02001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-50-8-8"
          width="35.350002"
          height="38.720016"
-         x="501.80319"
-         y="350.21933" />
+         x="106.55"
+         y="162.74001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-5-1"
          width="35.350002"
          height="38.720016"
-         x="537.1532"
-         y="427.65933" />
+         x="141.89999"
+         y="240.18001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-5-3"
          width="35.350002"
          height="38.720016"
-         x="537.1532"
-         y="311.4993" />
+         x="141.89999"
+         y="124.01998" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-50-8-4"
          width="35.350002"
          height="38.720016"
-         x="537.1532"
-         y="350.21933" />
+         x="141.89999"
+         y="162.74001" />
       <rect
-         style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
+         style="fill:#b58863;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-5"
          width="35.350002"
          height="38.720016"
-         x="501.80319"
-         y="388.93933" />
+         x="106.55"
+         y="201.46001" />
       <rect
          style="fill:#f0d9b5;fill-opacity:1;stroke-width:0.264583"
          id="rect128-5-50-8"
          width="35.350002"
          height="38.720016"
-         x="501.80319"
-         y="427.65933" />
+         x="106.55"
+         y="240.18001" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 537.1532,311.49933 v 154.88"
+         d="m 141.9,124.02001 v 154.88"
          id="path2513-5-6"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 501.80322,311.4993 v 154.88"
+         d="m 106.55002,124.01998 v 154.88"
          id="path2513-5-6-8"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 466.45322,311.4993 v 154.88"
+         d="m 71.20002,124.01998 v 154.88"
          id="path2513-5-6-7"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 431.10321,311.4993 v 154.88"
+         d="m 35.85001,124.01998 v 154.88"
          id="path2513-5-6-89"
          sodipodi:nodetypes="cc" />
       <circle
-         style="fill:#2b0000;stroke-width:0.672535"
+         style="fill:#000000;stroke-width:0.672535;fill-opacity:1"
          id="path1014-7"
-         cx="466.45319"
-         cy="427.65933"
+         cx="71.199989"
+         cy="240.18001"
          r="5" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 395.7532,427.65933 176.75,4e-5"
+         d="m 0.5,240.18001 176.75,4e-5"
          id="path2513-5-5-1-1-3"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 395.75317,388.93929 176.75,4e-5"
+         d="m 0.49997,201.45997 176.75,4e-5"
          id="path2513-5-5-1-1-3-2"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 395.7532,350.21933 176.75,4e-5"
+         d="m 0.5,162.74001 176.75,4e-5"
          id="path2513-5-5-1-1-3-3"
          sodipodi:nodetypes="cc" />
       <path
          style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 395.7532,311.49931 H 572.50318 V 466.37933 H 395.7532 Z"
+         d="M 0.5,124.01999 H 177.24998 V 278.90001 H 0.5 Z"
          id="path4748" />
       <path
          style="fill:none;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="M 395.7532,296.49929 H 587.50318 V 466.37933"
+         d="M 0.5,109.01997 H 192.24998 V 278.90001"
          id="path4896" />
     </g>
   </g>
