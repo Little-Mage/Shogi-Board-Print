@@ -87,9 +87,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.54305264"
-     inkscape:cx="408.80015"
-     inkscape:cy="527.57316"
+     inkscape:zoom="0.3839962"
+     inkscape:cx="408.85821"
+     inkscape:cy="527.34896"
      inkscape:document-units="cm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -134,7 +134,7 @@
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect27598);display:inline;fill:#000000;fill-opacity:1;stroke:none" />
     <g
        id="g1"
-       inkscape:export-filename="g1.png"
+       inkscape:export-filename="..\..\g1.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <text
@@ -144,7 +144,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect35664);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="1044.2383"
            y="883.65234"
-           id="tspan1">六</tspan></text>
+           id="tspan11">六</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,-25.644787,174.32045)"
@@ -152,7 +152,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect37804);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="1114.8125"
            y="176.60352"
-           id="tspan2">七</tspan></text>
+           id="tspan12">七</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,388.83586,129.15205)"
@@ -160,7 +160,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect44130);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="-452.19727"
            y="492.88086"
-           id="tspan3">八</tspan></text>
+           id="tspan13">八</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,364.54794,82.73044)"
@@ -168,7 +168,7 @@
          style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect45984);display:inline;fill:#000000;fill-opacity:1;stroke:none"><tspan
            x="-360.71289"
            y="815.69141"
-           id="tspan4">九</tspan></text>
+           id="tspan14">九</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,24.5158,-64.113485)"
@@ -179,9 +179,9 @@
          inkscape:export-ydpi="96"><tspan
            x="924"
            y="201.44534"
-           id="tspan6"><tspan
+           id="tspan16"><tspan
              style="font-family:Arial;-inkscape-font-specification:Arial"
-             id="tspan5">一</tspan></tspan></text>
+             id="tspan15">一</tspan></tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,22.374846,-89.283629)"
@@ -192,7 +192,7 @@
          inkscape:export-ydpi="96"><tspan
            x="931.8418"
            y="441.91995"
-           id="tspan7">二</tspan></text>
+           id="tspan17">二</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,29.246606,-130.16239)"
@@ -203,7 +203,7 @@
          inkscape:export-ydpi="96"><tspan
            x="905.70312"
            y="742.51566"
-           id="tspan8">三</tspan></text>
+           id="tspan18">三</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,-42.979823,-23.217769)"
@@ -214,7 +214,7 @@
          inkscape:export-ydpi="96"><tspan
            x="1178.8516"
            y="483.74222"
-           id="tspan9">四</tspan></text>
+           id="tspan19">四</tspan></text>
       <text
          xml:space="preserve"
          transform="matrix(0.26458334,0,0,0.26458334,-6.002062,-21.880324)"
@@ -225,7 +225,7 @@
          inkscape:export-ydpi="96"><tspan
            x="1039.0098"
            y="626.1973"
-           id="tspan10">五</tspan></text>
+           id="tspan20">五</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -1025,29 +1025,29 @@
            x="-36.38007"
            y="-38.301262">9</tspan></text>
       <circle
-         style="fill:#000000;fill-opacity:1;stroke-width:0.504401"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.336267"
          id="path1014-7"
          cx="160.97501"
          cy="81.619995"
-         r="3.75" />
+         r="2.5" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke-width:0.504401"
-         id="path1014-7-3"
-         cx="160.97501"
-         cy="197.78004"
-         r="3.75" />
-      <circle
-         style="fill:#000000;fill-opacity:1;stroke-width:0.504401"
-         id="path1014-7-1"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.336267"
+         id="path1014-7-6"
          cx="54.924957"
          cy="81.619995"
-         r="3.75" />
+         r="2.5" />
       <circle
-         style="fill:#000000;fill-opacity:1;stroke-width:0.504401"
-         id="path1014-7-16"
+         style="fill:#000000;fill-opacity:1;stroke-width:0.336267"
+         id="path1014-7-5"
          cx="54.924957"
          cy="197.78004"
-         r="3.75" />
+         r="2.5" />
+      <circle
+         style="fill:#000000;fill-opacity:1;stroke-width:0.336267"
+         id="path1014-7-61"
+         cx="160.97501"
+         cy="197.78004"
+         r="2.5" />
     </g>
     <rect
        style="fill:#ffff00;stroke-width:2.06956"
