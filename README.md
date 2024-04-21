@@ -2,3 +2,5 @@
 Official size
 [Dimensions](https://github.com/Little-Mage/ShogiGUI-piece-sets/blob/master/piece-board_dimensions.txt)
 <img src="shogiban-light-brown.png">
+
+Margin is 2x: 10 Bu = 3 cm
